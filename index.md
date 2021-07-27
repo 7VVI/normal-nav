@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Red Pages
 
 You can use the [editor on GitHub](https://github.com/Venom-lemon/Hmoob/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
