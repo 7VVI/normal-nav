@@ -189,4 +189,7 @@ $(document).ready(function(){
 	$("#youdao").click(function(){
 	    window.location.href="http://halihali2.com/";
 	});
+	$("#JavaScript1").click(function(){
+	    window.location.href="https://zh.javascript.info/";
+	});
 })
