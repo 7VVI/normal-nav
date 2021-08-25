@@ -192,4 +192,7 @@ $(document).ready(function(){
 	$("#JavaScript1").click(function(){
 	    window.location.href="https://zh.javascript.info/";
 	});
+	$("#Web_list1").click(function(){
+	    window.location.href="http://shouce.jb51.net/";
+	});
 })
