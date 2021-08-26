@@ -73,7 +73,7 @@ $(document).ready(function(){
 	    window.location.href="https://github.com/labuladong/fucking-algorithm";
 	});
 	$("#JSGuid").click(function(){
-	    window.location.href="https://tsejx.github.io/javascript-guidebook/";
+	    window.location.href="http://www.htmldrive.net/";
 	});
 	$("#Vue").click(function(){
 	    window.location.href="http://caibaojian.com/vue-design/";
