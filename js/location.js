@@ -5,6 +5,9 @@ $(document).ready(function(){
     $("#google").click(function(){
         window.location.href="http://www.google.com";
     });
+	  $("#Font").click(function(){
+        window.location.href="https://fontawesome.dashgame.com/";
+    });
     $("#translate").click(function(){
         window.location.href="https://translate.google.cn";
     });
