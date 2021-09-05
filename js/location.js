@@ -5,6 +5,15 @@ $(document).ready(function(){
     $("#google").click(function(){
         window.location.href="http://www.google.com";
     });
+	  $("#bridge").click(function(){
+        window.location.href="https://bridges.torproject.org/";
+    });
+	  $("#JAVA_study").click(function(){
+        window.location.href="https://hollischuang.github.io/toBeTopJavaer/#/basics/java-basic/basic-data-types";
+    });
+	  $("#Webpro").click(function(){
+        window.location.href="https://chinese.freecodecamp.org/learn/";
+    });
 	  $("#Font").click(function(){
         window.location.href="https://fontawesome.dashgame.com/";
     });
